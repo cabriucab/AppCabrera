@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Hola CODER!!!!</Text>
+      <Text>Soy Martin Cabrera</Text>
       <StatusBar style="auto" />
     </View>
   );
@@ -17,4 +18,5 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     justifyContent: 'center',
   },
+  
 });
